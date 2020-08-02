@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="str_01" label="Str 01" language="en" table="x_snc_orlando_0802_1600">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>str_01</element>
+            <help/>
+            <hint/>
+            <label>Str 01</label>
+            <language>en</language>
+            <name>x_snc_orlando_0802_1600</name>
+            <plural>Str 01s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-02 07:03:09</sys_created_on>
+            <sys_id>c1e683f21bd694106dc28483cc4bcb29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Str 01</sys_name>
+            <sys_package display_value="orlando 0802 1600" source="x_snc_orlando_0802">03968fb21bd694106dc28483cc4bcb8c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="orlando 0802 1600">03968fb21bd694106dc28483cc4bcb8c</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_orlando_0802_1600_str_01_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-02 07:03:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
